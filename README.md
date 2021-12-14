@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ML, DL and Computer Vision**
 
-- 📫 How to reach me : [mail](venkatashanmukhasainathg@gmail.com)
+- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanmukha-sainath-1045b2197)
 
 - 📄 Know about my experiences [here](https://drive.google.com/file/d/1y91Y0C2fYli9g2608HvbsLzTt0Kg7ljd/view?usp=sharing)
 
