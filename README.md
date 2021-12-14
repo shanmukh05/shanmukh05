@@ -19,6 +19,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [KLA on-campus Machine Learning Internship Interview Experience &lpar;2021&rpar;](https://medium.com/@shanmukh05/kla-on-campus-machine-learning-internship-interview-experience-2021-72518adac034?source=rss-50f5e3450ea9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
