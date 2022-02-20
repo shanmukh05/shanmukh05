@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shanmukh05)
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@shanmukh05)
-
 - 💬 Ask me about **ML, DL and Computer Vision**
 
 - 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanmukha-sainath-1045b2197)
