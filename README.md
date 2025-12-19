@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/shanmukh764" target="blank"><img src="https://img.shields.io/twitter/follow/shanmukh764?logo=twitter&style=for-the-badge" alt="shanmukh764" /></a> </p>
 
-- 🌱 I’m currently learning **NLP**
+- 🌱 I’m currently learning **NLP** and **Reinforcement Learning**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/shanmukh05)
 
