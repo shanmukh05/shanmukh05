@@ -27,7 +27,6 @@
 <a href="https://linkedin.com/in/shanmukha-sainath-1045b2197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmukha-sainath-1045b2197" height="30" width="40" /></a>
 <a href="https://kaggle.com/shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanmukh05" height="30" width="40" /></a>
 <a href="https://fb.com/shanmukhasainath.gunda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shanmukhasainath.gunda" height="30" width="40" /></a>
-<a href="https://instagram.com/shanmukh_764_gv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shanmukh_764_gv" height="30" width="40" /></a>
 <a href="https://medium.com/@shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shanmukh05" height="30" width="40" /></a>
 </p>
 
