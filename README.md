@@ -17,6 +17,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [TensorWrites](https://www.tensorwrites.com/) - Documenting my journey as a Machine Learning Engineer, sharing insights from experiments, readings, and projects.
 - [KLA on-campus Machine Learning Internship Interview Experience &lpar;2021&rpar;](https://medium.com/@shanmukh05/kla-on-campus-machine-learning-internship-interview-experience-2021-72518adac034?source=rss-50f5e3450ea9------2)
 - [List of Movies, Series and Sitcoms I watched](https://shanmukh05.notion.site/shanmukh05/Movies-Series-Sitcoms-c57001a504e54443a4e90ccea7f53313)
 <!-- BLOG-POST-LIST:END -->
