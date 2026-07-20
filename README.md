@@ -1,39 +1,41 @@
-<h1 align="center">Hello there 👋, I'm shanmukh</h1>
-<h3 align="center">Exploring the field of Machine Learning</h3>
+<h1 align="center">Hi, I'm Shanmukh 👋</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shanmukh05&label=Profile%20views&color=0e75b6&style=flat" alt="shanmukh05" /> </p>
-
-<p align="left"> <a href="https://twitter.com/shanmukh764" target="blank"><img src="https://img.shields.io/twitter/follow/shanmukh764?logo=twitter&style=for-the-badge" alt="shanmukh764" /></a> </p>
-
-- 🌱 I’m currently learning **NLP** and **Reinforcement Learning**
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/shanmukh05)
-
-- 💬 Ask me about **ML, DL and Computer Vision**
-
-- 📫 How to reach me : [LinkedIn](https://www.linkedin.com/in/shanmukha-sainath-1045b2197)
-
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1QW27Vfg7B4GJ5oidANXaRf8DC9LnRAp9/view?usp=sharing)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [TensorWrites](https://www.tensorwrites.com/) - Documenting my journey as a Machine Learning Engineer, sharing insights from experiments, readings, and projects.
-- [KLA on-campus Machine Learning Internship Interview Experience &lpar;2021&rpar;](https://medium.com/@shanmukh05/kla-on-campus-machine-learning-internship-interview-experience-2021-72518adac034?source=rss-50f5e3450ea9------2)
-- [List of Movies, Series and Sitcoms I watched](https://shanmukh05.notion.site/shanmukh05/Movies-Series-Sitcoms-c57001a504e54443a4e90ccea7f53313)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/shanmukh764" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shanmukh764" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/shanmukha-sainath-1045b2197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shanmukha-sainath-1045b2197" height="30" width="40" /></a>
-<a href="https://kaggle.com/shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="shanmukh05" height="30" width="40" /></a>
-<a href="https://medium.com/@shanmukh05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shanmukh05" height="30" width="40" /></a>
+<p align="center">
+I specialize in building algorithms for high-precision optical metrology, and I love coding models from scratch to understand them under the hood. I build systems across NLP, RL, and Generative AI.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shanmukh05&label=Profile%20Views&color=555555&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shanmukh05&show_icons=true&locale=en&layout=compact" alt="shanmukh05" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shanmukh05&show_icons=true&locale=en" alt="shanmukh05" /></p>
+* Exploring reinforcement learning, agentic AI, world models, and memory systems
+* Writing about my learnings and projects at [TensorWrites](https://www.tensorwrites.com/)
+* Read more about my experience in my [resume](https://drive.google.com/file/d/1QW27Vfg7B4GJ5oidANXaRf8DC9LnRAp9/view?usp=sharing)
+* Check my reading list [here](https://tensorfiend-readings.notion.site/Readings-2daa5cf8f93180de8773d8930d8adf0f)
+* [Movies, Series, and Sitcoms I Have Watched](https://shanmukh05.notion.site/shanmukh05/Movies-Series-Sitcoms-c57001a504e54443a4e90ccea7f53313)
 
+## 🚧 Ongoing Projects
+
+| Project                            | Description                                                                                                                                                                                   |
+| ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [AresSim](PROJECT_LINK_HERE)       | A Mars habitat development environment for testing reinforcement learning algorithms and LLM agents. Agents control a rover and perform tasks involved in building and maintaining a habitat. |
+| [LLM Gathering](PROJECT_LINK_HERE) | A platform where multiple LLMs with assigned roles discuss a given topic. It explores multi-agent reasoning and memory systems for collaborative agent workflows.                             |
+
+## 🧪 Recent Projects
+
+| Project                              | Description                                                                                                                                                                                            |
+| ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [Trisynapse](https://www.trisynapse.com/)      | Trisynapse is a local-first, BYOK AI research workspace. Turn scattered papers, PDFs, bookmarks, notes & videos into a private digital brain. The app auto-summarizes, maps concept graphs, and compiles sources into auto-updating wikis. Work seamlessly with a built-in split-view Browser, local retrieval Chat, AI Assistants, and infinite Canvas whiteboards for note-taking. 100% offline-first (except AI API calls) and private: your vault stays on your machine         |
+| [DotChat](https://www.dotlm.chat/) | A minimalist PyTorch framework for training small language models from scratch. It supports pretraining, SFT, DPO, Chain-of-Thought reasoning, CUDA Graphs, and static KV-cache inference.             |
+| [SimpleThoughts](https://huggingface.co/datasets/tensorfiend/SimpleThoughts)  | A synthetic Hugging Face dataset designed for supervised fine-tuning, preference alignment, and reasoning training.                                                                                    |
+| [ArxiViz](https://www.arxiviz.com/)         | An interactive platform for exploring neural network architectures across computer vision, NLP, generative AI, and reinforcement learning alongside mathematical concepts and PyTorch implementations. |
+| [ScratchNLP](https://github.com/shanmukh05/scratch_nlp)      | A Python library implementing core NLP algorithms and tokenizers entirely from scratch.                                                                                                                |
+
+## 🔗 Connect
+
+[LinkedIn](https://www.linkedin.com/in/shanmukha-sainath-1045b2197) ·
+[X](https://twitter.com/tensorfiend) ·
+[Kaggle](https://www.kaggle.com/shanmukh05) ·
+[Medium](https://medium.com/@shanmukh05)
