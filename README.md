@@ -20,8 +20,9 @@ I specialize in building algorithms for high-precision optical metrology, and I 
 
 | Project                            | Description                                                                                                                                                                                   |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [AresSim](PROJECT_LINK_HERE)       | A Mars habitat development environment for testing reinforcement learning algorithms and LLM agents. Agents control a rover and perform tasks involved in building and maintaining a habitat. |
-| [LLM Gathering](PROJECT_LINK_HERE) | A platform where multiple LLMs with assigned roles discuss a given topic. It explores multi-agent reasoning and memory systems for collaborative agent workflows.                             |
+| [trisynapse-memory](https://github.com/shanmukh05/trisynapse-memory)       | Local-first memory for AI agents. Store verifiable traces, recall meaning, and answer with citations. |
+| AresSim       | A Mars habitat development environment for testing reinforcement learning algorithms and LLM agents. Agents control a rover and perform tasks involved in building and maintaining a habitat. |
+| LLM Gathering (Not actively working) | A platform where multiple LLMs with assigned roles discuss a given topic. It explores multi-agent reasoning and memory systems for collaborative agent workflows.                             |
 
 ## 🧪 Recent Projects
 
