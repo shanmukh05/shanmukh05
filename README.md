@@ -39,4 +39,4 @@ I specialize in building algorithms for high-precision optical metrology, and I 
 [LinkedIn](https://www.linkedin.com/in/shanmukha-sainath-1045b2197) ·
 [X](https://twitter.com/tensorfiend) ·
 [Kaggle](https://www.kaggle.com/shanmukh05) ·
-[Medium](https://medium.com/@shanmukh05)
+[Blog](https://www.tensorwrites.com/)
