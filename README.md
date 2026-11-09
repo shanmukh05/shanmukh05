@@ -20,14 +20,15 @@ I specialize in building algorithms for high-precision optical metrology, and I 
 
 | Project                            | Description                                                                                                                                                                                   |
 | ---------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [trisynapse-memory](https://github.com/shanmukh05/trisynapse-memory)       | Local-first memory for AI agents. Store verifiable traces, recall meaning, and answer with citations. |
+| World Models | Exploring world models (Testing Dreamer style models on Atari, ProcGen and other game environments) |
 | [AresSim](https://github.com/shanmukh05/AresSim)       | A Mars habitat development environment for testing reinforcement learning algorithms and LLM agents. Agents control a rover and perform tasks involved in building and maintaining a habitat. |
-| [TuneLM](https://github.com/shanmukh05/TuneLM) | TuneLM trains small language models to compose, edit, and repair executable [Strudel](https://strudel.cc/) music programs.|
+| [TuneLM](https://github.com/shanmukh05/TuneLM) - Not Actively working | TuneLM trains small language models to compose, edit, and repair executable [Strudel](https://strudel.cc/) music programs.|
 
 ## 🧪 Recent Projects
 
 | Project                              | Description                                                                                                                                                                                            |
 | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [trisynapse-memory](https://github.com/shanmukh05/trisynapse-memory)       | Local-first memory for AI agents. Store verifiable traces, recall meaning, and answer with citations. |
 | [Trisynapse](https://www.trisynapse.com/)      | Trisynapse is a local-first, BYOK AI research workspace. Turn scattered papers, PDFs, bookmarks, notes & videos into a private digital brain. The app auto-summarizes, maps concept graphs, and compiles sources into auto-updating wikis. Work seamlessly with a built-in split-view Browser, local retrieval Chat, AI Assistants, and infinite Canvas whiteboards for note-taking. 100% offline-first (except AI API calls) and private: your vault stays on your machine         |
 | [DotChat](https://www.dotlm.chat/) | A minimalist PyTorch framework for training small language models from scratch. It supports pretraining, SFT, DPO, Chain-of-Thought reasoning, CUDA Graphs, and static KV-cache inference.             |
 | [SimpleThoughts](https://huggingface.co/datasets/tensorfiend/SimpleThoughts)  | A synthetic Hugging Face dataset designed for supervised fine-tuning, preference alignment, and reasoning training.                                                                                    |
